@@ -11,3 +11,10 @@
 ```bash
  cargo run
 ```
+
+
+You can run the rust project without log
+    
+```bash
+cargo run -q
+```
